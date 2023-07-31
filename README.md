@@ -13,4 +13,4 @@ Main modules:
 
 Check [supported modules](https://rathaumons.github.io/pyppbox/pyppbox/modules.html) for more details.
 
-Watch on YouTube: https://youtu.be/sj1NzObzYQA
+Watch on YouTube: https://youtu.be/jFPDbgPJBds
